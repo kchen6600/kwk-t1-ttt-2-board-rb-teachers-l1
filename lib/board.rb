@@ -6,3 +6,5 @@ while i < 9
   board[i]=" "
   i++
 end
+
+puts board
