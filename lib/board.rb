@@ -1,7 +1,7 @@
-board = []
+board = Array.new
 i = 0
 while i < 9
-  board[i]=" "
+  board.push(" ")
   i++
 end
 
